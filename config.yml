@@ -16,7 +16,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Venkata_Sreeram 
-  description: "This blog showcases my tech exploration, featuring personalized Zsh configurations, Linux insights, and hands-on Data Science projects."
+  description: "This blog showcases my tech exploration, featuring personalized configurations and passionate hands-on projects."
   keywords: [Blog, Portfolio]
   author: Venkata Sreeram
   # author: ["Me", "You"] # multiple authors
@@ -47,25 +47,25 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "This blog showcases my tech exploration, featuring personalized Zsh configurations, Linux insights, and hands-on Data Science projects."
+    subtitle: "This blog showcases my tech exploration, featuring personalized configurations and passionate hands-on projects."
     imageUrl: "images/Untitled.png"
     imageWidth: 150
     imageHeight: 150
     imageTitle: "Sreeram Venkata"
     buttons:
-      - name: Blogs
-        url: blogs
-      - name: Projects
-        url: projects
+    #   - name: Blogs
+    #     url: blogs
+    #   - name: Projects
+    #     url: projects
 
   # home-info mode
 
 
   socialIcons:
  
-    - name: linkedin
+    - #name: linkedin
       url: "https://www.linkedin.com/in/sreeram-venkata-484a69194/"
-    - name: github
+    - #name: github
       url: "https://github.com/sreeraminsights"
  
 
@@ -104,10 +104,6 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 4
     - identifier: blog
       name: Blogs
       url: /blogs/
@@ -116,4 +112,11 @@ menu:
       name: Projects
       url: /projects/
       weight: 2
-
+    - identifier: resume
+      name: resume
+      url: /resume/
+      weight: 3
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 4

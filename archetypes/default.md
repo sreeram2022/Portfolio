@@ -1,8 +1,20 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-url: 
-hidemeta: true
-disableshare: true
-summary: 
+date: {{ .Date }}
+slug:
+category:
+summary:
+description: Same as the summary
+cover:
+  image:
+  alt:
+  caption:
+  relative: false
+showtoc: true
+tags:
+  - Fun
+  - Portfolio
+  - Linux
+  - Mac
 draft: true
 ---

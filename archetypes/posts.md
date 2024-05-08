@@ -11,5 +11,10 @@ cover:
   caption:
   relative: false
 showtoc: true
+tags:
+  - Fun
+  - Portfolio
+  - Linux
+  - Mac
 draft: true
 ---

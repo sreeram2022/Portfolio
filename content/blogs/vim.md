@@ -11,5 +11,9 @@ cover:
   caption: 
   relative: true
 showtoc: true
+tags:
+  - Fun
+  - Portfolio
+  - Linux
 draft: false
 ---

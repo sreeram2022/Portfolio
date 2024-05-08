@@ -11,5 +11,8 @@ cover:
   caption: 
   relative: true
 showtoc: true
+tags:
+  - Linux
+  - Mac
 draft: false
 ---

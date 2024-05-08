@@ -1,7 +1,7 @@
 ---
 title: "My ubunt server"
 date: 2024-04-08T23
-slug: My zsh customization 
+slug: ubuntu server 
 category: blog 
 summary:
 description: 
@@ -11,6 +11,9 @@ cover:
   caption: 
   relative: true
 showtoc: true
+tags:
+  - Portfolio
+  - Linux
 draft: false
 ---
 

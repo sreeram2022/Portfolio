@@ -3,10 +3,12 @@
 <article class="post-single">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
+    
     <h1 class="post-title">
       {{ .Title }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h1>
+
     {{- if .Description }}
     <div class="post-description">
       {{ .Description }}
@@ -35,13 +37,8 @@
   </div>
   {{- end }}
 
-  <footer class="post-footer">
-    {{- if .Params.tags }}
-    <ul class="post-tags">
-      {{- range ($.GetTerms "tags") }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-      {{- end }}
-    </ul>
+
+
     {{- end }}
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
@@ -55,5 +52,11 @@
   {{- partial "comments.html" . }}
   {{- end }}
 </article>
+
+<ul class="post-tags">
+  {{- range ($.GetTerms "tags") }}
+  <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+  {{- end }}
+</ul>
 
 {{- end }}{{/* end main */}}

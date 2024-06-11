@@ -1,6 +1,6 @@
 ---
 title: ""
-date: January 2, 2006 
+date: 2024-06-09
 slug: resume
 category:
 summary:

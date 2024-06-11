@@ -1,13 +1,13 @@
 ---
 title: "Highlights"
-date: 2024-06-10T09:52:35+05:30
+date: 2024-05-19
 slug: Highlights extraction
 category: blog
 summary:
-#description: Same as the summary
+description:
 cover:
   image: "covers/image.png"
-  alt:
+  alt: "Highlighted points"
   caption:
   relative: true
 showtoc: true

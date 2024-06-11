@@ -25,18 +25,18 @@ params:
   defaultTheme: dark # dark, light
   disableThemeToggle: true
 
-  #ShowReadingTime: true
-  #ShowShareButtons: true
+  ShowReadingTime: true
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: true
+  hidemeta: false
   hideSummary: true
   showtoc: true
-  tocopen: true
+  tocopen: false
 
   before: false
   label: "Tags"
@@ -122,15 +122,12 @@ menu:
       name: Blog
       url: /blog/
       weight: 1
-    #- identifier: projects
-      # name: Projects
-      # url: /projects/
-      # weight: 2
+
     - identifier: resume
-      name: resume
+      name: Resume
       url: /resume/
-      weight: 2
+      weight: 3
     - identifier: about
       name: About
       url: /about/
-      weight: 3
+      weight: 4

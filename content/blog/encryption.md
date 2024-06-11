@@ -1,6 +1,6 @@
 ---
 title: "How do I encrypt my data"
-date: 2022-04-08T23
+date: 2024-05-12
 slug: data encryption
 category: blog 
 summary:

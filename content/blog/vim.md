@@ -1,6 +1,6 @@
 ---
 title: "How do I use Vim"
-date: 2022-04-08T23
+date: 2024-06-02
 slug: vim configuration 
 category: blog 
 summary:

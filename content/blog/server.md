@@ -1,6 +1,6 @@
 ---
 title: "My ubunt server"
-date: 2024-04-08T23
+date: 2024-05-26
 slug: ubuntu server 
 category: blog 
 summary:

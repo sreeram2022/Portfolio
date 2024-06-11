@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: January 2, 2006 
+date: 2023-09-16
 slug: about
 category:
 summary:

@@ -1,6 +1,6 @@
 ---
 title: "How do I use my zsh"
-date: 2022-04-08T23
+date: 2024-06-09
 slug: zsh customization 
 category: blog 
 summary:
@@ -13,7 +13,6 @@ cover:
 showtoc: true
 tags:
   - Fun
-  - Portfolio
   - Mac
 draft: false
 ---

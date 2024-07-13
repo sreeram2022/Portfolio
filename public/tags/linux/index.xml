@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on Sreeram&#39;s blog</title>
+    <link>https://sreeram2022.github.io/Portfolio/tags/linux/</link>
+    <description>Recent content in Linux on Sreeram&#39;s blog</description>
+    <image>
+      <url>https://sreeram2022.github.io/Portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sreeram2022.github.io/Portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2024 11:39:55 +0530</lastBuildDate><atom:link href="https://sreeram2022.github.io/Portfolio/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trying asahi linux</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/asahi/</link>
+      <pubDate>Sat, 13 Jul 2024 11:39:55 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/asahi/</guid>
+      <description>Same as the summary</description>
+    </item>
+    
+    <item>
+      <title>My Dot Files</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/my-dot-files/</link>
+      <pubDate>Mon, 08 Jul 2024 12:44:10 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/my-dot-files/</guid>
+      <description>Same as the summary</description>
+    </item>
+    
+    <item>
+      <title>Tmux setup</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/tmux/</link>
+      <pubDate>Mon, 08 Jul 2024 12:35:01 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/tmux/</guid>
+      <description>Tmux is a terminal multiplexer that allows us to manage multiple terminal sessions within a single window. all of the commands have prefix Ctrl+b by default. But,I changed ctrl+b to shift+b as it is more accessible.
+tmux - for new session tmux ls - for list of all the session tmux a -t session name- to enter into a session(t for target) tmux new -s session name- to create a new session (s for session) shift+b d to detach from session shift+b % for vertical panes shift+b “ for horizontal panes shift+b x to close pane shift+b [ for copying mode &amp;amp; same with ] for pasing, use y to copy (just like in vim) to paste in system clipboard.</description>
+    </item>
+    
+    <item>
+      <title>Vim configuration</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/vim-configuration/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/vim-configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My ubunt server</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/ubuntu-server/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/ubuntu-server/</guid>
+      <description>I’ve installed ubuntu server on my old lenovo laptop.
+If I want to access via sftp in terminal the commands:
+sftp rama@192.168.0.104 (give your ip address after your server name)
+We can even access through a file manager for ease of access. If we have a linux os it&amp;rsquo;ll be free and easy. If we want to access it from mac we need to pay for third party softwares.
+But using terminal we can still access and perform necessary operations.</description>
+    </item>
+    
+  </channel>
+</rss>

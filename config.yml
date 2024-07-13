@@ -28,7 +28,7 @@ params:
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: true
   showtoc: true
@@ -36,6 +36,7 @@ params:
   before: false
   label: "Tags"
   link: "tags/"
+
 
   label:
     text: "Venkata Sreeram"
@@ -57,7 +58,7 @@ params:
 
   socialIcons:
     - url: "https://www.linkedin.com/in/sreeram-venkata-484a69194/"
-    - url: "https://github.com/sreeraminsights"
+    - url: "https://github.com/sreeram2002"
 
   cover:
     hidden: true
@@ -78,12 +79,6 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-
-  tags:
-    - programming
-    - technology
-    - design
-    - tutorial
 
 menu:
   main:

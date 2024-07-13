@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Sreeram&#39;s blog</title>
+    <link>https://sreeram2022.github.io/Portfolio/tags/python/</link>
+    <description>Recent content in Python on Sreeram&#39;s blog</description>
+    <image>
+      <url>https://sreeram2022.github.io/Portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sreeram2022.github.io/Portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sreeram2022.github.io/Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extracting highlights</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/highlights-extraction/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/highlights-extraction/</guid>
+      <description>Recently, I&amp;rsquo;ve started to read a self-help book. I&amp;rsquo;ve highlighted the parts that I know are useful for future references. Then I had a epipheny. If I have everything highlighted in one place that would be cool rather than scrolling through entire pdf. Google books offers the same feature if we buy books from play store.
+Code pip install pymupdf import os import fitz def extract_highlights(pdf_path, output_path): doc = fitz.open(pdf_path) highlights = [] for page_num in range(len(doc)): page = doc.</description>
+    </item>
+    
+  </channel>
+</rss>

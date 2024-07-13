@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Sreeram&#39;s blog</title>
+    <link>https://sreeram2022.github.io/Portfolio/tags/</link>
+    <description>Recent content in Tags on Sreeram&#39;s blog</description>
+    <image>
+      <url>https://sreeram2022.github.io/Portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sreeram2022.github.io/Portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2024 11:39:55 +0530</lastBuildDate><atom:link href="https://sreeram2022.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fun</title>
+      <link>https://sreeram2022.github.io/Portfolio/tags/fun/</link>
+      <pubDate>Sat, 13 Jul 2024 11:39:55 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://sreeram2022.github.io/Portfolio/tags/linux/</link>
+      <pubDate>Sat, 13 Jul 2024 11:39:55 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://sreeram2022.github.io/Portfolio/tags/mac/</link>
+      <pubDate>Mon, 08 Jul 2024 12:44:10 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://sreeram2022.github.io/Portfolio/tags/portfolio/</link>
+      <pubDate>Mon, 08 Jul 2024 12:44:10 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://sreeram2022.github.io/Portfolio/tags/python/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

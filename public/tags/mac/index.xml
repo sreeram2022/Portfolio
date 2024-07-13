@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mac on Sreeram&#39;s blog</title>
+    <link>https://sreeram2022.github.io/Portfolio/tags/mac/</link>
+    <description>Recent content in Mac on Sreeram&#39;s blog</description>
+    <image>
+      <url>https://sreeram2022.github.io/Portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sreeram2022.github.io/Portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2024 12:44:10 +0530</lastBuildDate><atom:link href="https://sreeram2022.github.io/Portfolio/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Dot Files</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/my-dot-files/</link>
+      <pubDate>Mon, 08 Jul 2024 12:44:10 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/my-dot-files/</guid>
+      <description>Same as the summary</description>
+    </item>
+    
+    <item>
+      <title>Tmux setup</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/tmux/</link>
+      <pubDate>Mon, 08 Jul 2024 12:35:01 +0530</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/tmux/</guid>
+      <description>Tmux is a terminal multiplexer that allows us to manage multiple terminal sessions within a single window. all of the commands have prefix Ctrl+b by default. But,I changed ctrl+b to shift+b as it is more accessible.
+tmux - for new session tmux ls - for list of all the session tmux a -t session name- to enter into a session(t for target) tmux new -s session name- to create a new session (s for session) shift+b d to detach from session shift+b % for vertical panes shift+b “ for horizontal panes shift+b x to close pane shift+b [ for copying mode &amp;amp; same with ] for pasing, use y to copy (just like in vim) to paste in system clipboard.</description>
+    </item>
+    
+    <item>
+      <title>My zsh configuration</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/zsh-customization/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/zsh-customization/</guid>
+      <description>my zsh Let’s talk about mac terminal. So, generally Mac comes with basic and boring terminal(zsh).
+For a long time I didn’t know the power we can leverage using zsh. I looked in to youtube for terminal setup found few amazing tutorials to make my terminal flexible as well as aesthetic.
+Almost all of the tutorials explained the same thing:
+Installing Iterm2 and oh my zsh framework A powerlevel10k theme A nerd font ( I use jetbrains mono) Configure .</description>
+    </item>
+    
+    <item>
+      <title>How do I encrypt my data</title>
+      <link>https://sreeram2022.github.io/Portfolio/blog/data-encryption/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sreeram2022.github.io/Portfolio/blog/data-encryption/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

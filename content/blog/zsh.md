@@ -1,18 +1,17 @@
 ---
-title: "How do I use my zsh"
+title: "My zsh configuration"
 date: 2024-06-09
 slug: zsh customization 
 category: blog 
 summary:
 description: 
 cover:
-  image: "covers/ss.png"
+  image: "covers/zsh.png"
   alt: "My mac terminal"
   caption: 
   relative: true
 showtoc: true
 tags:
-  - Fun
   - Mac
 draft: false
 ---

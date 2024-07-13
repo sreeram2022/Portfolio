@@ -1,18 +1,19 @@
 ---
-title: "Highlights"
+title: "Extracting highlights"
 date: 2024-05-19
 slug: Highlights extraction
 category: blog
 summary:
 description:
 cover:
-  image: "covers/image.png"
+  image: "covers/hi.png"
   alt: "Highlighted points"
   caption:
   relative: true
 showtoc: true
 tags:
   - Fun
+  - Python
 draft: false
 ---
 Recently, I've started to read a self-help book. I've highlighted the parts that I know are useful for future references. Then I had a epipheny. If I have everything highlighted in one place that would be cool rather than scrolling through entire pdf. Google books offers the same feature if we buy books from play store. 

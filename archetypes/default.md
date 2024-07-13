@@ -6,7 +6,7 @@ category:
 summary:
 description: Same as the summary
 cover:
-  image:
+  image: "covers/.png"
   alt:
   caption:
   relative: false

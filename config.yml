@@ -3,7 +3,6 @@ baseURL: "https://sreeram2022.github.io/Portfolio/"
 title: Sreeram's blog
 paginate: 5
 theme: PaperMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -24,7 +23,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: true
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -37,15 +35,13 @@ params:
   hideSummary: true
   showtoc: true
   tocopen: false
-
   before: false
   label: "Tags"
   link: "tags/"
 
-
   label:
     text: "Venkata Sreeram"
-    icon: "images/coding.png"
+    icon: "covers/coding.png"
     iconHeight: 35
 
   # profile-mode
@@ -54,7 +50,7 @@ params:
     title: "Welcome! \U0001F44B"
     subtitle: "This blog showcases my tech exploration, featuring personalized configurations and passionate hands-on projects.      \n 
     (This site is still work in progress)"
-    imageUrl: "images/a.jpg"
+    imageUrl: "covers/a.jpg"
     imageWidth: 204
     imageHeight: 181
     imageTitle: "Sreeram Venkata"
@@ -69,15 +65,11 @@ params:
   taxonomies:
     tag: "tags"
 
-
-
   socialIcons:
- 
     - #name: linkedin
       url: "https://www.linkedin.com/in/sreeram-venkata-484a69194/"
     - #name: github
       url: "https://github.com/sreeraminsights"
- 
 
   # analytics:
   #   google:
@@ -92,8 +84,6 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # hide on single page
     linkFullImages: true
-  
-
 
   editPost:
 #    URL: "https://github.com/chanin-www/content"
@@ -101,7 +91,6 @@ params:
     URL: ""
     Text: "" # edit text
     appendFilePath: true # to append file path to Edit link
-
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
@@ -113,17 +102,12 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-  
-
-
-
 menu:
   main:
     - identifier: blog
       name: Blog
       url: /blog/
       weight: 1
-
     - identifier: resume
       name: Resume
       url: /resume/

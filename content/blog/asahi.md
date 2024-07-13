@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Trying asahi linux"
+date: 2024-07-13T11:39:55+05:30
 slug:
 category:
 summary:
@@ -13,8 +13,6 @@ cover:
 showtoc: true
 tags:
   - Fun
-  - Portfolio
   - Linux
-  - Mac
-draft: true
+draft: false
 ---

@@ -12,7 +12,6 @@ cover:
   relative: true
 showtoc: true
 tags:
-  - Linux
   - Mac
 draft: false
 ---

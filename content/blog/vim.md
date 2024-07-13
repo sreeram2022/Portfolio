@@ -1,5 +1,5 @@
 ---
-title: "How do I use Vim"
+title: "Vim configuration"
 date: 2024-06-02
 slug: vim configuration 
 category: blog 
@@ -12,7 +12,6 @@ cover:
   relative: true
 showtoc: true
 tags:
-  - Fun
   - Portfolio
   - Linux
 draft: false

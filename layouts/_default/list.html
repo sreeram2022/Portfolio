@@ -1,3 +1,5 @@
+
+
 {{- define "main" }}
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
@@ -56,6 +58,13 @@
       {{- .Title }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h2>
+    {{- if .Params.tags }}
+    <ul class="post-tags">
+      {{- range .Params.tags }}
+      <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
   <section class="entry-content">

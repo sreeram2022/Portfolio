@@ -13,15 +13,13 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
   title: Venkata_Sreeram 
   description: "This blog showcases my tech exploration, featuring personalized configurations and passionate hands-on projects."
   keywords: [Blog, Portfolio]
   author: Venkata Sreeram
-  # author: ["Me", "You"] # multiple authors
-  #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: dark
   disableThemeToggle: true
   ShowReadingTime: true
   ShowShareButtons: true
@@ -44,9 +42,8 @@ params:
     icon: "covers/coding.png"
     iconHeight: 35
 
-  # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: true
     title: "Welcome! \U0001F44B"
     subtitle: "This blog showcases my tech exploration, featuring personalized configurations and passionate hands-on projects.      \n 
     (This site is still work in progress)"
@@ -54,45 +51,25 @@ params:
     imageWidth: 204
     imageHeight: 181
     imageTitle: "Sreeram Venkata"
-    buttons:
-    #   - name: Blogs
-    #     url: blogs
-    #   - name: Projects
-    #     url: projects
-
-  # home-info mode
 
   taxonomies:
     tag: "tags"
 
   socialIcons:
-    - #name: linkedin
-      url: "https://www.linkedin.com/in/sreeram-venkata-484a69194/"
-    - #name: github
-      url: "https://github.com/sreeraminsights"
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
+    - url: "https://www.linkedin.com/in/sreeram-venkata-484a69194/"
+    - url: "https://github.com/sreeraminsights"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: false # hide on single page
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: false
     linkFullImages: true
 
   editPost:
-#    URL: "https://github.com/chanin-www/content"
-#    Text: "Suggest Changes" # edit text
     URL: ""
-    Text: "" # edit text
-    appendFilePath: true # to append file path to Edit link
-  # for search
-  # https://fusejs.io/api/options.html
+    Text: ""
+    appendFilePath: true
+
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -101,6 +78,12 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+  tags:
+    - programming
+    - technology
+    - design
+    - tutorial
 
 menu:
   main:

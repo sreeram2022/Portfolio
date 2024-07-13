@@ -52,10 +52,11 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "This blog showcases my tech exploration, featuring personalized configurations and passionate hands-on projects."
-    imageUrl: "images/Untitled.png"
-    imageWidth: 150
-    imageHeight: 150
+    subtitle: "This blog showcases my tech exploration, featuring personalized configurations and passionate hands-on projects.      \n 
+    (This site is still work in progress)"
+    imageUrl: "images/a.jpg"
+    imageWidth: 204
+    imageHeight: 181
     imageTitle: "Sreeram Venkata"
     buttons:
     #   - name: Blogs

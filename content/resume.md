@@ -17,15 +17,32 @@ draft: false
 # Sreeram Venkata
 
 
-+91 6301553196 |[ pvsreeram1@gmail.com ](mailto:x@x.com)|[ linkedin.com/sreeram ](https://www.linkedin.com/in/sreeram-venkata-484a69194/)|[ github.com/sreeram](https://github.com/sreeram2022)
+[ pvsreeram1@gmail.com ](mailto:x@x.com)|[ linkedin.com/sreeram ](https://www.linkedin.com/in/sreeram-venkata-484a69194/)|[ github.com/sreeram](https://github.com/sreeram2022)
 
 ## Education
 
-Vellore Institute of Technology CGPA: 8.56 Bachelor of Technology in Electronics & Communications July 2019 - May 2023 Narayana IIT JEE Academy CGPA: 9.94 Class 12 Jun 2017 – May 2019 Sri Sarasvathi Sisumandir CGPA: 9.8 Class 10 May 2017
+### Education
+
+- **Vellore Institute of Technology**
+  - Bachelor of Technology in Electronics & Communications
+  - CGPA: 8.56
+  - July 2019 - May 2023
+
+- **Narayana IIT JEE Academy**
+  - Class 12
+  - CGPA: 9.94
+  - Jun 2017 – May 2019
+
+- **Sri Sarasvathi Sisumandir**
+  - Class 10
+  - CGPA: 9.8
+  - May 2017
+
 
 ## Projects
 
-### Brain Tumor Detection using Deep Learning End-to-end deep learning, flask
+### Brain Tumor Detection using Deep Learning 
+#### End-to-end deep learning, flask
 
 - Imported MRI images of brain dataset from kaggle and performed data visualization, data augmentation and preprocessing
 - Used various deep learning architectures such as CNN, MobileNet-v2 and VGG-16 on preprocessed dataset
@@ -37,7 +54,8 @@ Vellore Institute of Technology CGPA: 8.56 Bachelor of Technology in Electronics
 - Used XGBoost and LightGBM algorithms to predict the number of orders for each city and each recipe
 - Compared these two algorithm results with the real values to find out which algorithm can efficiently and accurately forecast the number of orders
 
-### Gesture controlled vehicle using openCV openCV, Mediapipe
+### Gesture controlled vehicle using openCV 
+#### openCV, Mediapipe
 
 - Used openCV library to detect both hand and head gestures via webcam
 - Used pre-trained models in Mediapipe framework for performing hand and face gesture tracking
@@ -45,7 +63,8 @@ Vellore Institute of Technology CGPA: 8.56 Bachelor of Technology in Electronics
 
 ## Experience
 
-### programmer analyst trainee Dec 2023 – Present Cognizant Chennai
+### programmer analyst trainee (Dec 2023 – Present)
+#### Cognizant Chennai
 
 - Trained on mysql, PLSQL
 - Earned contributor, author certifications on kinaxis platform
